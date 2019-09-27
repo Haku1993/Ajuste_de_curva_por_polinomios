@@ -1,0 +1,1 @@
+# Ajuste_de_curva_por_polinomios
